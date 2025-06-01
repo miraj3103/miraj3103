@@ -3,7 +3,7 @@
 ### Hi there 👋, Md Tufsirul Miraj
 #### Web and APP Developer
 
-I am a passionate full-stack developer specializing in Laravel, Tailwind CSS, PHP, and JavaScript. With a strong focus on building high-performance web and mobile applications, I love crafting clean, efficient, and scalable code. My expertise lies in developing e-commerce platforms, management systems, and custom web applications.
+I am a Full Stack App & Web Developer | Passionate Coder with a Design Eye.I enjoy solving real-world problems through well-crafted code and thoughtful design. My approach is simple: write clean, efficient code, prioritize the user experience, and focus on the small details that make a product feel complete. I take pride in quiet, focused work and let the results speak for themselves — always open to new challenges, continuous learning, and opportunities to build meaningful things.
 
 Skills: HTML / CSS / Tailwind CSS / Laravel / PHP / Java / Java Script / MySQL
 
@@ -13,7 +13,6 @@ Skills: HTML / CSS / Tailwind CSS / Laravel / PHP / Java / Java Script / MySQL
 - ⚡ Fun fact: I fell asleep while coding 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/miraj3103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-tufsirul-miraj-1155b620b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1A8uvvzQRT/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mdtufsirulmiraj?igsh=dWdiYnM4eHN2ZGp3/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
