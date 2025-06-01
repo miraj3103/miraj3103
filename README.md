@@ -1,4 +1,4 @@
-![Web and APP Developer](https://scontent.fjsr12-1.fna.fbcdn.net/v/t39.30808-6/472615231_1103077518225051_1157281809713313307_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=nBm-UwiIuPMQ7kNvgFCo861&_nc_oc=AdjPx67nZNYDtnS3w6bwASSBPa0Pqcdc4ovBpuFep9eCdqw2JGcSlAdN2MAdYeOqwUY&_nc_zt=23&_nc_ht=scontent.fjsr12-1.fna&_nc_gid=A4tGIj72DkrefUdC2ZFzJg-&oh=00_AYDYMAudi5MfT3tEqL47MrwzIDpTVOUSsx00UTELR2DwSg&oe=67C9885B)
+
 
 ### Hi there 👋, Md Tufsirul Miraj
 #### Web and APP Developer
