@@ -57,12 +57,12 @@ I design systems built for long-term growth and stability.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miraj3103&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraj3103&layout=compact&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=miraj3103&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraj3103&layout=compact&theme=default&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=miraj3103&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=miraj3103&theme=default"/>
 </p>
 
 ---
@@ -78,9 +78,8 @@ I design systems built for long-term growth and stability.
 # 📌 Developer Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/miraj3103?template=classic&isocalendar=1&languages=1&followup=1&activity=1&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miraj3103&theme=default"/>
 </p>
-
 ---
 
 # ⏱️ Coding Activity
