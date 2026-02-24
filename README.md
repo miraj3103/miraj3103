@@ -57,8 +57,8 @@ I design systems built for long-term growth and stability.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miraj3103&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraj3103&layout=compact&theme=default&cache_seconds=86400" height="170"/>
+  <img src="./assets/github-stats.svg" height="170"/>
+  <img src="./assets/top-langs.svg" height="170"/>
 </p>
 
 <p align="center">
