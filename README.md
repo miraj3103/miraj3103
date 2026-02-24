@@ -84,13 +84,6 @@ I design systems built for long-term growth and stability.
 </p>
 
 ---
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miraj3103/miraj3103/main/assets/trophy.svg" />
-</p>
-
 ---
 
 # 🐍 Contribution Snake
