@@ -57,17 +57,18 @@ I design systems built for long-term growth and stability.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./assets/github-stats.svg" height="170"/>
-  <img src="./assets/top-langs.svg" height="170"/>
+  <img src="https://raw.githubusercontent.com/miraj3103/miraj3103/main/assets/github-stats.svg" height="170"/>
+  <img src="https://raw.githubusercontent.com/miraj3103/miraj3103/main/assets/top-langs.svg" height="170"/>
+  <img src="https://raw.githubusercontent.com/miraj3103/miraj3103/main/assets/streak.svg" height="170"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=miraj3103&theme=default"/>
-</p>
+</p> -->
 
 ---
 
-# 🧾 Profile Summary Card
+# Developer Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miraj3103&theme=transparent"/>
@@ -75,12 +76,6 @@ I design systems built for long-term growth and stability.
 
 ---
 
-# 📌 Developer Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miraj3103&theme=default"/>
-</p>
----
 
 # ⏱️ Coding Activity
 
