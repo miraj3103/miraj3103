@@ -95,8 +95,7 @@ I design systems built for long-term growth and stability.
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/miraj3103/miraj3103/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://raw.githubusercontent.com/miraj3103/miraj3103/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Contact
