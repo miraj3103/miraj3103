@@ -56,11 +56,11 @@ I design systems built for long-term growth and stability.
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/miraj3103/miraj3103/main/assets/github-stats.svg" height="170"/>
   <img src="https://raw.githubusercontent.com/miraj3103/miraj3103/main/assets/top-langs.svg" height="170"/>
   <img src="https://raw.githubusercontent.com/miraj3103/miraj3103/main/assets/streak.svg" height="170"/>
-</p>
+</p> -->
 
  <p align="center">
   <img src="https://streak-stats.demolab.com?user=miraj3103&theme=default"/>
@@ -68,7 +68,7 @@ I design systems built for long-term growth and stability.
 
 ---
 
-# Developer Metrics
+# 📌 Developer Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miraj3103&theme=transparent"/>
@@ -88,12 +88,12 @@ I design systems built for long-term growth and stability.
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miraj3103&theme=flat&no-frame=true&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/miraj3103/miraj3103/main/assets/trophy.svg" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake (Auto Generated via GitHub Actions)
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/miraj3103/miraj3103/blob/output/github-contribution-grid-snake.svg)
 
