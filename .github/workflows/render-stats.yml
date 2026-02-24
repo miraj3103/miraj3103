@@ -4,7 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 2 * * *"
-
+permissions:
+  contents: write
+  
 jobs:
   render:
     runs-on: ubuntu-latest
@@ -14,12 +16,12 @@ jobs:
       - name: Create assets dir
         run: mkdir -p assets
 
-      - name: Download stats svg
+      - name: Download SVGs
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api?username=miraj3103&show_icons=true&include_all_commits=true&count_private=true&theme=default" -o assets/github-stats.svg
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=miraj3103&layout=compact&theme=default" -o assets/top-langs.svg
-          curl -L "https://streak-stats.demolab.com?user=miraj3103&theme=default" -o assets/streak.svg
-          curl -L "https://github-profile-trophy.vercel.app/?username=miraj3103&no-bg=true&no-frame=true&margin-w=10&column=6" -o assets/trophy.svg
+          curl -fL "https://github-readme-stats.vercel.app/api?username=miraj3103&show_icons=true&include_all_commits=true&count_private=true&theme=default" -o assets/github-stats.svg
+          curl -fL "https://github-readme-stats.vercel.app/api/top-langs/?username=miraj3103&layout=compact&theme=default" -o assets/top-langs.svg
+          curl -fL "https://streak-stats.demolab.com?user=miraj3103&theme=default" -o assets/streak.svg
+          curl -fL -A "Mozilla/5.0" "https://github-profile-trophy.vercel.app/?username=miraj3103&no-bg=true&no-frame=true&margin-w=10&column=6" -o assets/trophy.svg
 
       - name: Commit changes
         run: |
