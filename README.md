@@ -62,9 +62,9 @@ I design systems built for long-term growth and stability.
   <img src="https://raw.githubusercontent.com/miraj3103/miraj3103/main/assets/streak.svg" height="170"/>
 </p>
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://streak-stats.demolab.com?user=miraj3103&theme=default"/>
-</p> -->
+</p> 
 
 ---
 
