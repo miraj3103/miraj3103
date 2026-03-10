@@ -15,7 +15,7 @@
 
 ## About
 
-I am a software engineer focused on building reliable, maintainable, and scalable digital products. My work mainly revolves around backend-heavy applications, custom business systems, modern web platforms, and Android app development. I enjoy turning real business requirements into clean technical solutions with long-term stability in mind.
+I am a software engineer focused on building reliable, maintainable, and scalable digital products. My work mainly revolves around full-stack solutions with strong backend architecture, custom business systems, modern web platforms, and Android app development. I enjoy turning real business requirements into clean technical solutions with long-term stability in mind.
 
 ---
 
